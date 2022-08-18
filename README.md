@@ -1,6 +1,6 @@
 Project Title TASTY KITCHENS (SWIGGY/ZOMATO CLONE)
 
-Application URL : [https://tastyfoodapptej.ccbp.tech/]
+Application URL : https://tejafoodappp.ccbp.tech/
 username: rahul ,
 password: rahul@2021
 
@@ -17,8 +17,8 @@ User Login route, Home Route contains offers slider and resturants list with sor
 
 Technologies used
 **
-React.js
-HTML
-CSS
-JavaScript
+React.js,
+HTML,
+CSS,
+JavaScript,
 Thirdparty Packages React Popup,React Slick
